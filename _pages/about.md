@@ -1,10 +1,9 @@
-
 ---
 permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -15,8 +14,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
 
 I will receive my Ph.D. from the School of Computer Science at Wuhan University in June 2026. During both my master’s and doctoral studies, I have worked in Prof. [Bo Du](https://baike.baidu.com/item/%E6%9D%9C%E5%8D%9A/14399417)’s [research group](https://sigma.whu.edu.cn/index.htm), and I will continue to work with Prof. Bo Du as a postdoctoral researcher at the same school after graduation. My research focuses on the intersection of artificial intelligence and life sciences, with particular interests in protein design, brain circuit analysis, and spatial transcriptomics. I am currently collaborating with Prof. [Baoliang Song](https://baike.baidu.com/item/%E5%AE%8B%E4%BF%9D%E4%BA%AE/2760540), Prof. [Yan Wang](https://baike.baidu.com/item/%E7%8E%8B%E7%90%B0/18764391), Prof. [Zhengwei Yuan](http://weixin.cmu.edu.cn:10159/rsc/bsh_detail.aspx?gh=20131063), Prof. [Xueyin Tian](https://ired.fudan.edu.cn/5c/4d/c38654a482381/page.htm) and other Life scientists. Moving forward, I will continue to pursue research in AI4Health, aiming to develop intelligent methods for biomedical data analysis, biological system modeling, and health-related applications.
 
