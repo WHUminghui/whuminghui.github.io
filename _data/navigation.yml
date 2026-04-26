@@ -1,5 +1,4 @@
 # main links
-<!--
 main:
   - title: "About Me"
     url: "/#about-me"
@@ -15,4 +14,4 @@ main:
 
   - title: "Invited Talks"
     url: "/#invited-talks"
--->
+
