@@ -45,11 +45,13 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 **Minghui Liao**, Guojia Wan, Bo Du. Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification. (AAAI 2024)
 
 ## Others
-J Qiu, G Wan, Z Zhou, **M Liao**, X Liu, X Li, B Du. Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion.(Electronics  2026)
+Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communication 2026, Accepted in Principle)
 
-Z Zhou, G Wan, F Liao, W Hu, **M Liao**, J Qiu, X Li, B Du. Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference. (MICCAI 2025)
+Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion.(Electronics  2026)
 
-J Li, G Wan, **M Liao**, F Liao, B Du. Self-supervised Contrastive Graph Views for Learning Neuron-Level Circuit Network. (MICCAI 2024)
+Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference. (MICCAI 2025)
+
+Self-supervised Contrastive Graph Views for Learning Neuron-Level Circuit Network. (MICCAI 2024)
 
 
 <!-- 
