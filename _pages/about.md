@@ -47,14 +47,14 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 -->
 
 ## Selected Works
-**Minghui Liao**, Guojia Wan ∗, Wenbin Hu ∗, Bo Du. Building connectome analysis tools with representation learning on neuronal skeleton and circuit topology. (Neural Networks 2025)
+**Minghui Liao**, Guojia Wan∗, Wenbin Hu∗, Bo Du. Building connectome analysis tools with representation learning on neuronal skeleton and circuit topology. (Neural Networks 2025)
 
-**Minghui Liao**, Guojia Wan, Bo Du. Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification. (AAAI 2024)
+**Minghui Liao**, Guojia Wan*, Bo Du∗. Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification. (AAAI 2024)
 
 ## Others
 Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communication 2026, Accepted in Principle)
 
-Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion.(Electronics  2026)
+Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion. (Electronics 2026)
 
 Brain Wiring Knowledge Graph Reasoning: A Region Embedding Approach for Logical Neuronal Relation Inference. (MICCAI 2025)
 
