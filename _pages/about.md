@@ -30,9 +30,9 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 
 
 # 📳 Contact
-- *微   信*： minghui_cs
+- *微信*： minghui_cs
 
-- *电子邮件*：minghui@whu.edu.cn
+- *邮箱*：minghui@whu.edu.cn
 
 # 📝 Publications 
 <!--
