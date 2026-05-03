@@ -76,5 +76,5 @@ Self-supervised Contrastive Graph Views for Learning Neuron-Level Circuit Networ
 
 # 💬 Invited Talk.
 - *2025.10*, National Doctoral Academic Forum -- Bioinformatics Driven by Multi-omics Big Data and Artificial Intelligence. Hangzhou, China.
-- *2024.22*, AAAI Conference on Artificial Intelligence. Vancouver, Canada.
+- *2024.02*, AAAI Conference on Artificial Intelligence. Vancouver, Canada.
 
