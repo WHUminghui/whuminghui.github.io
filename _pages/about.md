@@ -53,7 +53,7 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 **Minghui Liao**, Guojia Wan*, Bo Du∗. Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification. (AAAI 2024)
 
 ## ●  Others
-Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communication 2026, Accepted in Principle)
+Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communication 2026, Accepted)
 
 Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion. (Electronics 2026)
 
