@@ -26,7 +26,7 @@ I will receive my Ph.D. from the School of Computer Science at Wuhan University 
 - *2024.06 - 2025.03*, Westlake University, [Longxing Cao Lab](https://www.westlake.edu.cn/faculty/longxing-cao.html), Visiting Scholar (Protein Design), Hangzhou, China.
 - *2020.09 - 2022.06*, Wuhan University, [School of Computer Science](https://cs.whu.edu.cn/), Master of Science (M.S.) in Computer Science and Technology, Wuhan, China.
 - *2019.09 - 2020.06*, Wuhan University, [Medical Research Institute](https://mri.whu.edu.cn/), Graduate Study in Biological Sciences, Wuhan, China.
-- *2014.09 - 2018.06*, Hubei University of Technology, [School of Bioengineering](https://life.hbut.edu.cn/xygk/xyld.htm), Bachelor of Science (B.S.) in Biotechnology, Wuhan, China.
+- *2014.09 - 2018.06*, Hubei University of Technology, [School of Bioengineering](https://life.hbut.edu.cn/index.htm), Bachelor of Science (B.S.) in Biotechnology, Wuhan, China.
 
 
 # 📳 Contact
