@@ -54,7 +54,7 @@ My research focuses on the intersection of artificial intelligence and life scie
 **Minghui Liao**, Guojia Wan*, Bo Du∗. Joint Learning Neuronal Skeleton and Brain Circuit Topology with Permutation Invariant Encoders for Neuron Classification. (AAAI 2024)
 
 ## ●  Others
-Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communications 2026, Accepted)
+Identifying glycolysis in mitochondria as a new perspective on the pathogenesis of retinitis pigmentosa. (Nature Communications 2026)
 
 Isotropic Reconstruction of Anisotropic vEM Volumes with ViT-Guided Diffusion. (Electronics 2026)
 
